@@ -1,11 +1,11 @@
 # Wento
 
-**Wento** is a terminal-first music programming language and synthesis engine created by **Fructose**.
-Designed for minimal composition, live terminal playback, and community-shared instrument definitions, Wento turns plain-text `.wento` scripts into synthesized audio and HTTPS media playback from any Unix/Linux, macOS, or Windows terminal.
+[Wento](<https://ais-pre-uocafxzplzlagbwmq7myrh-869526443411.asia-northeast1.run.app>) is a terminal-first music programming language and synthesis engine created by **Fructose**.
+Designed for minimal composition, live terminal playback, and community-shared instrument definitions, [Wento](<https://ais-pre-uocafxzplzlagbwmq7myrh-869526443411.asia-northeast1.run.app>) turns plain-text `.wento` scripts into synthesized audio and HTTPS media playback from any Unix/Linux, macOS, or Windows terminal.
 
 ## Author & Attribution
 
-- **Language Name**: Wento
+- **Language Name**: [Wento](<https://ais-pre-uocafxzplzlagbwmq7myrh-869526443411.asia-northeast1.run.app>)
 - **Creator**: Fructose
 - **Implementation**: C++17 (Zero external library dependencies required for core synthesis)
 - **License**: MIT License (see `LICENSE`)
