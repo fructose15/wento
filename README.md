@@ -54,7 +54,6 @@ chmod +x configure
 ./configure
 make
 sudo make install
-sudo cp ./wento /usr/local/bin/wento
 ```
 
 Optional flags for `./configure`:
