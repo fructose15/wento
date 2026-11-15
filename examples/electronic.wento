@@ -1,0 +1,17 @@
+# Wento Electronic Groove
+# Demonstrates tempo, synth notes, waits, and HTTPS audio
+
+set tempo = 128
+
+play note SubBass C2 1/4
+play note Saw C4 1/8
+play note Saw Eb4 1/8
+play note SubBass G2 1/4
+play note CrystalBell G4 1/4
+
+wait 250ms
+
+play note SubBass Bb1 1/4
+play note Square D4 1/8
+play note Square F4 1/8
+play note CrystalBell Bb4 1/2

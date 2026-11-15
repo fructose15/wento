@@ -1,0 +1,12 @@
+# Custom Wento Instrument Definition (.wnote)
+# Upload globally with: wento upload-note examples/crystal_bell.wnote
+
+name=AuroraChime
+author=Fructose
+waveform=fm_bell
+attack_ms=6
+decay_ms=360
+sustain=0.22
+release_ms=480
+harmonics=1.0,0.55,0.28,0.12
+description=Shimmering harmonic chime designed for ambient arpeggios

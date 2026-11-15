@@ -1,0 +1,16 @@
+# Wento Sample Composition: Morning Arpeggio
+# Creator: Fructose
+
+set tempo = 116
+
+play note Piano C4 1/4
+play note Piano E4 1/4
+play note Piano G4 1/4
+play note CrystalBell C5 1/2
+
+wait 1/8
+
+play note Piano A4 1/4
+play note Piano F4 1/4
+play note Piano D4 1/4
+play note CrystalBell G4 1/2
